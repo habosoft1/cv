@@ -10,6 +10,6 @@ Nuorodos į naudojamus vaizdo įrašus:
 ----------
 Tolimesnis galimas projekto plėtojimas:
 - Įvertinti kitų automobilių atstumą.
- - Įvertinti atstumo pokytį (greitį).
- - Įvertinti savo transporto priemonės greitį pagal punktyrines linijas.
- - Atpažinti greitį ribojančius kelio ženklus.
+- Įvertinti atstumo pokytį (greitį).
+- Įvertinti savo transporto priemonės greitį pagal punktyrines linijas.
+- Atpažinti greitį ribojančius kelio ženklus.
