@@ -5,6 +5,8 @@ Description in Lithuanian:
 Pirmasis tikslas yra atpažinti valstybinius numerius filmuotoje medžiagoje su OpenCV.
 Nuorodos į naudojamus vaizdo įrašus:
  - *Greitai bus.*
+
+
 ----------
 Tolimesnis galimas projekto plėtojimas:
 - Įvertinti kitų automobilių atstumą.
