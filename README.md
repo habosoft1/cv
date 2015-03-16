@@ -4,7 +4,9 @@ Description in Lithuanian:
 ----------
 Pirmasis tikslas yra atpažinti valstybinius numerius filmuotoje medžiagoje su OpenCV.
 Nuorodos į naudojamus vaizdo įrašus:
- - *Greitai bus.*
+ - http://youtu.be/glod9KbyRa4
+ - http://youtu.be/WjfO2DDA2JI
+ - http://youtu.be/m5uu57T-js4
 
 
 ----------
