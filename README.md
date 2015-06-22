@@ -15,3 +15,7 @@ Tolimesnis galimas projekto plėtojimas:
 - Įvertinti atstumo pokytį (greitį).
 - Įvertinti savo transporto priemonės greitį pagal punktyrines linijas.
 - Atpažinti greitį ribojančius kelio ženklus.
+
+----------
+Apdorotų vaizdo įrašų grojaraštis surūšiuotas pagal kodo pakeitimus:
+ - https://www.youtube.com/playlist?list=PLBQF8KrreJcbcVd_cnN6COwmS6VLLWEi4
