@@ -1,5 +1,5 @@
 # cv
-Computer Vision exploratory seminar project @ Vilnius University.
+Computer Vision research seminar project @ Vilnius University.
 Description in Lithuanian:
 ----------
 Pirmasis tikslas yra atpažinti valstybinius numerius filmuotoje medžiagoje su OpenCV.
